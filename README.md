@@ -1,4 +1,3 @@
-# AdoptaUnAmigo
 ## Proyecto Adopta un amigo 
 # La empresa DrunkDeveloper (empresa ficticia) tiene el proposito de crear un aplicativo web y movil de tipo Adopcion de mascotas, no se tiene ningun antecedentes de ningun sistema  por lo todo se inicia desde cero y con la libertad de utilizar cualquier tecnologia. 
 # DrunkDeveloper SA de CV Sistemas Albarran.
