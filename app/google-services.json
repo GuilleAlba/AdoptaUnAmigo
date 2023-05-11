@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572460099577",
+    "project_id": "adopta-una-mascota-75d56",
+    "storage_bucket": "adopta-una-mascota-75d56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572460099577:android:68b1a4a9d6eb81b0083f28",
+        "android_client_info": {
+          "package_name": "com.example.adoptaunamigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572460099577-rtbrk87hv9cgvrgevj9m4acji9c8gfhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ4BjYTU3xZQxyYKoxFiP-wekSq9TfQEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572460099577-rtbrk87hv9cgvrgevj9m4acji9c8gfhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
